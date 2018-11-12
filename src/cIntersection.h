@@ -1,6 +1,6 @@
 /**
  * \file cIntersection.h
- * \brief Header for the librairie of the intersection between a ray and an object
+ * \brief Header for the librairy of the intersection between a ray and an object
  *
  * \author geewy
  */
