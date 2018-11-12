@@ -1,6 +1,6 @@
 /**
  * \file cLightSource.cpp
- * \brief Librairie of a light source
+ * \brief Librairy of a light source
  *
  * \author geewy
  */
