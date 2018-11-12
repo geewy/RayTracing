@@ -1,6 +1,6 @@
 /**
  * \file cIntersection.cpp
- * \brief Librairie for intersection between a ray and an object (sphere, cube etc...)
+ * \brief Librairy for intersection between a ray and an object (sphere, cube etc...)
  *
  * \author geewy
  */
