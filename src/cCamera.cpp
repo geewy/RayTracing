@@ -1,6 +1,6 @@
 /**
  * \file cCamera.cpp
- * \brief Librairie to define the camera
+ * \brief Librairy to define the camera
  *
  * \author geewy
  */
